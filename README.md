@@ -11,8 +11,6 @@
 
 ## Projects
 
-Coming soon!
-
 ### Packages
 
 Coming soon!
