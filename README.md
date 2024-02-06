@@ -18,6 +18,7 @@ Coming soon!
 ### Extensions
 
 * [Kinode Python, an untrusted code runner](https://github.com/hosted-fornet/kinode-python)
+* [Kinode ML, a machine learning model runner](https://github.com/hosted-fornet/kinode-ml)
 
 ### Scripts and Tools
 
