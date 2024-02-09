@@ -13,7 +13,8 @@
 
 ### Packages
 
-Coming soon!
+* [file_transfer](https://github.com/bitful-pannul/file_transfer), a package that allows nodes to share files between one another and serves a simple frontend to manage your shared files. Under active development by [@0x70b1a5](https://github.com/0x70b1a5)
+* [sdapi](https://github.com/dr-frmr/sdapi), a simple package that serves a public HTTP API for fetching random Steely Dan lyrics.
 
 ### Extensions
 
