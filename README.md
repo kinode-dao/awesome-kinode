@@ -15,7 +15,7 @@
 
 * [file_transfer](https://github.com/bitful-pannul/file_transfer), a package that allows nodes to share files between one another and serves a simple frontend to manage your shared files. Under active development by [@0x70b1a5](https://github.com/0x70b1a5)
 * [sdapi](https://github.com/dr-frmr/sdapi), a simple package that serves a public HTTP API for fetching random Steely Dan lyrics.
-
+* [kinode-prove-fib](https://github.com/hosted-fornet/kinode-prove-fib), an example of using [SP1](https://github.com/succinctlabs/sp1) inside a Kinode package.
 ### Extensions
 
 * [Kinode Python, an untrusted code runner](https://github.com/hosted-fornet/kinode-python)
