@@ -29,6 +29,8 @@
 ### Libraries
 
 * [`process_lib`, the UX-improving library for processes](https://github.com/kinode-dao/process_lib)
+* [Telegram Bot API for processes](https://github.com/kinode-dao/telegram-bot)
+* [Discord Bot API for processes](https://github.com/kinode-dao/discord_api)
 
 ## Documentation
 
