@@ -17,6 +17,7 @@
 * [sdapi](https://github.com/dr-frmr/sdapi), a simple package that serves a public HTTP API for fetching random Steely Dan lyrics.
 * [kinode-prove-fib](https://github.com/nick1udwig/kinode-prove-fib), an example of using [SP1](https://github.com/succinctlabs/sp1) inside a Kinode package.
 * [safe](https://github.com/kinode-dao/safe), a Gnosis Safe frontend (plus a little backend!). Under active development by [@jurassic.technology](https://github.com/jurassic-technology)
+* [crdt-crm](https://github.com/dr-frmr/crdt-crm), a simple example of a contacts app using CRDTs to sync data between app users.
 ### Extensions
 
 * [Kinode Python](https://github.com/nick1udwig/kinode-python), an untrusted code runner
