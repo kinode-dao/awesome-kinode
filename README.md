@@ -12,6 +12,10 @@
 
 ## Projects
 
+### Apps
+
+* [Barter](https://github.com/bitful-pannul/auctioneer/), allows you to trade your NFTs through a telegram LLM chatbot, end to end.
+
 ### Packages
 
 * [file_transfer](https://github.com/bitful-pannul/file_transfer), a package that allows nodes to share files between one another and serves a simple frontend to manage your shared files. Under active development by [@0x70b1a5](https://github.com/0x70b1a5).
