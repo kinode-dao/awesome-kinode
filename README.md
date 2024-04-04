@@ -31,7 +31,7 @@
 
 ### Scripts and Tools
 
-* [kit](https://github.com/kinode-dao/kit), the developer tool*kit* for Kinode.
+* [kit](https://github.com/kinode-dao/kit), the developer tool**kit** for Kinode.
 
 ### Libraries
 
