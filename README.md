@@ -42,6 +42,7 @@
 * [`process_lib`](https://github.com/kinode-dao/process_lib), the UX-improving library for processes.
 * [Telegram Bot API for processes](https://github.com/kinode-dao/telegram-bot)
 * [Discord Bot API for processes](https://github.com/kinode-dao/discord_api)
+* [LLM API](https://github.com/kinode-dao/llm), for Groq, OpenAi, as well as llama.cpp.
 
 ## Documentation
 
