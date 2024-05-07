@@ -16,6 +16,7 @@
 
 * [Barter](https://github.com/bitful-pannul/auctioneer/), allows you to trade your NFTs through a telegram LLM chatbot, end to end.
 * [Work in Progress - Filter](https://github.com/jaxs-ribs/filter), chrome extension using NN to filter out web content of your choice by semantic meaning.
+* [MemeDeck](https://github.com/holium/kinode-memedeck), Meme a better future with frens.
 
 ### Packages
 
