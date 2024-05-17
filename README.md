@@ -8,6 +8,7 @@
   * [Rollups](#rollups)
   * [Scripts and Tools](#scripts-and-tools)
   * [Libraries](#libraries)
+  * [Useful Regexes](#useful-regexes)
 * [Documentation](#documentation)
 
 ## Projects
@@ -45,6 +46,14 @@
 * [Telegram Bot API for processes](https://github.com/kinode-dao/telegram-bot)
 * [Discord Bot API for processes](https://github.com/kinode-dao/discord_api)
 * [LLM API](https://github.com/kinode-dao/llm), for Groq, OpenAi, as well as llama.cpp.
+
+### Useful Regexes
+* full process addresses: `^([a-zA-Z0-9\-_]+).([a-z]+)@([a-zA-Z0-9\-_]+):([a-zA-Z0-9\-_]+):([a-zA-Z0-9\-_]+).([a-z]+)$`
+* package IDs: `^([a-zA-Z0-9\-_]+):([a-zA-Z0-9\-_]+).([a-z]+)$`
+* process IDs: `^([a-zA-Z0-9\-_]+):([a-zA-Z0-9\-_]+):([a-zA-Z0-9\-_]+).([a-z]+)$`
+* KNS names: `^([a-zA-Z0-9\-_]+).([a-z]+)$`
+
+To ensure forward compatibility, these regexes accept any TLD, such as `.os` and `.eth`. Additionally, only alphanumeric characters, `-` and `_` are allowed within names. [Test them on RegExr.](https://regexr.com)
 
 ## Documentation
 
