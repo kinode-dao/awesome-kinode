@@ -48,12 +48,12 @@
 * [LLM API](https://github.com/kinode-dao/llm), for Groq, OpenAi, as well as llama.cpp.
 
 ### Useful Regexes
-* full process addresses: `^([a-z0-9\-_]+).([a-z]+)@([a-z0-9\-_]+):([a-z0-9\-_]+):([a-z0-9\-_]+)\.([a-z]+)$`
-* package IDs: `^([a-z0-9\-_]+):([a-z0-9\-_]+)\.([a-z]+)$`
-* process IDs: `^([a-z0-9\-_]+):([a-z0-9\-_]+):([a-z0-9\-_]+)\.([a-z]+)$`
-* KNS names: `^([a-z0-9\-_]+)\.([a-z]+)$`
+* full process addresses: `^([a-z0-9-_.]+)@([a-z0-9\-_]+):([a-z0-9-_]+):([a-z0-9-_.]+)#([a-z]+)$`
+* package IDs: `^([a-z0-9-_]+):([a-z0-9-_.]+)$`
+* process IDs: `^([a-z0-9-_]+):([a-z0-9-_]+):([a-z0-9-_.]+)$`
+* KNS names: `^([a-z0-9-_]+)\.([a-z]+)$`
 
-To ensure forward compatibility, these regexes accept any TLD, such as `.os` and `.eth`. Additionally, only alphanumeric characters, `-` and `_` are allowed within names. [Test them on RegExr.](https://regexr.com)
+To ensure forward compatibility, these regexes do not require any TLD such as `.os` or `.eth` (except for the KNS name regex). Additionally, only alphanumeric characters, `-` and `_` are allowed within names. [Test them on RegExr.](https://regexr.com)
 
 ## Documentation
 
