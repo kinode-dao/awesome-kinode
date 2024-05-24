@@ -8,6 +8,7 @@
   * [Rollups](#rollups)
   * [Scripts and Tools](#scripts-and-tools)
   * [Libraries](#libraries)
+  * [Useful Regexes](#useful-regexes)
 * [Documentation](#documentation)
 
 ## Projects
@@ -45,6 +46,19 @@
 * [Telegram Bot API for processes](https://github.com/kinode-dao/telegram-bot)
 * [Discord Bot API for processes](https://github.com/kinode-dao/discord_api)
 * [LLM API](https://github.com/kinode-dao/llm), for Groq, OpenAi, as well as llama.cpp.
+
+### Useful Regexes
+
+| Type                   | Regex                                                                   | Example input                               | Example output                                       | Description                                                            |
+| ---------------------- | ----------------------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------- |
+| full process addresses | `^([a-z0-9-_.]+)@([a-z0-9\-_]+):([a-z0-9-_]+):([a-z0-9-_.]+)$` | `undefined.os@process:package:publisher.os` | `undefined.os`, `process`, `package`, `publisher.os` | Separates a process address into node, process, package and publisher. |
+| process IDs            | `^([a-z0-9-_]+):([a-z0-9-_]+):([a-z0-9-_.]+)$`                          | `process:package:publisher.os`              | `process`, `package`, `publisher.os`                 | Separates a process address into process, package and publisher.       |
+| package IDs            | `^([a-z0-9-_]+):([a-z0-9-_.]+)$`                                        | `package:publisher.os`                      | `package`, `publisher.os`                            | Separates a process address into package and publisher.                |
+| KNS names              | `^([a-z0-9-_]+)\.([a-z]+)$`                                             | `undefined.os`                              | `undefined`, `os`                                    | Separates a KNS name into name and TLD.                                |
+
+To ensure forward compatibility, these regexes do not require any TLD such as `.os` or `.eth` (except for the KNS name regex).
+Additionally, only alphanumeric characters, `-` and `_` are allowed within names.
+[Test them on RegExr.](https://regexr.com)
 
 ## Documentation
 
