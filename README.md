@@ -8,7 +8,7 @@
   * [Rollups](#rollups)
   * [Scripts and Tools](#scripts-and-tools)
   * [Libraries](#libraries)
-  * [Useful Regexes](#useful-regexes)
+* [Useful Regexes](#useful-regexes)
 * [Documentation](#documentation)
 
 ## Projects
@@ -49,7 +49,7 @@
 * [Discord Bot API for processes](https://github.com/kinode-dao/discord_api)
 * [LLM API](https://github.com/kinode-dao/llm), for Groq, OpenAi, as well as llama.cpp.
 
-### Useful Regexes
+## Useful Regexes
 
 | Type                   | Regex                                                                   | Example input                               | Example output                                       | Description                                                            |
 | ---------------------- | ----------------------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------- |
