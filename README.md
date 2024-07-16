@@ -19,6 +19,7 @@
 * [Work in Progress - Filter](https://github.com/jaxs-ribs/filter), chrome extension using NN to filter out web content of your choice by semantic meaning.
 * [MemeDeck](https://github.com/holium/kinode-memedeck), Meme a better future with frens.
 * [dartfrog](https://github.com/assemblycapital/dartfrog), a kinode app browser
+* [crdt-crm](https://github.com/dr-frmr/crdt-crm), an app using CRDTs to sync contact data.
 
 ### Packages
 
@@ -26,7 +27,7 @@
 * [sdapi](https://github.com/dr-frmr/sdapi), a simple package that serves a public HTTP API for fetching random Steely Dan lyrics.
 * [kinode-prove-fib](https://github.com/nick1udwig/kinode-prove-fib), an example of using [SP1](https://github.com/succinctlabs/sp1) inside a Kinode package.
 * [safe](https://github.com/kinode-dao/safe), a Gnosis Safe frontend (plus a little backend!). Under active development by [@jurassic.technology](https://github.com/jurassic-technology).
-* [crdt-crm](https://github.com/dr-frmr/crdt-crm), a simple example of a contacts app using CRDTs to sync data between app users.
+* [kcard](https://github.com/dr-frmr/kcard), a package that generates node information as a public image file served over HTTP.
 
 ### Extensions
 
