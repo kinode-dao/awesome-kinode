@@ -17,8 +17,9 @@
 
 * [Barter](https://github.com/bitful-pannul/auctioneer/), allows you to trade your NFTs through a telegram LLM chatbot, end to end.
 * [Work in Progress - Filter](https://github.com/jaxs-ribs/filter), chrome extension using NN to filter out web content of your choice by semantic meaning.
-* [MemeDeck](https://github.com/holium/kinode-memedeck), Meme a better future with frens.
-* [dartfrog](https://github.com/assemblycapital/dartfrog), a kinode app browser
+* [MemeDeck](https://github.com/holium/kinode-memedeck), meme a better future with frens.
+* [dartfrog](https://github.com/assemblycapital/dartfrog), a kinode app framework and browser.
+     * [df-clicker](https://github.com/bacwyls/df-clicker), a game built with dartfrog-lib.
 * [crdt-crm](https://github.com/dr-frmr/crdt-crm), an app using CRDTs to sync contact data.
 
 ### Packages
