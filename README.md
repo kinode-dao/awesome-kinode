@@ -50,6 +50,7 @@
 * [Telegram Bot API for processes](https://github.com/kinode-dao/telegram-bot)
 * [Discord Bot API for processes](https://github.com/kinode-dao/discord_api)
 * [LLM API](https://github.com/kinode-dao/llm), for Groq, OpenAi, as well as llama.cpp.
+* [A Rust app framework for Kinode apps, currently under development](https://github.com/kinode-dao/app-framework).
 
 ## Useful Regexes
 
